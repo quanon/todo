@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  height: 100%;
+}
+
+.App .grid {
+  min-height: 100%;
+}
+
+:checked + label {
+  text-decoration: line-through;
+}
